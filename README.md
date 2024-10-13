@@ -18,7 +18,7 @@ Mở terminal và chạy:
 ```
 ## Run app
 ```bash
- streamlit run .\web.py
+python -m streamlit run .\web.py
 ```
 # Demo
 
