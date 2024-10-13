@@ -20,3 +20,7 @@ Mở terminal và chạy:
 ```bash
  streamlit run .\web.py
 ```
+# Demo
+
+https://github.com/user-attachments/assets/fd77511b-fd04-453a-9103-fb11fdc81f04
+
